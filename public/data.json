@@ -14,6 +14,7 @@
             }
         },
         "phone": "1-770-736-8031 x56442",
+        "gender": "male",
         "website": "hildegard.org",
         "company": {
             "name": "Romaguera-Crona",
@@ -40,6 +41,7 @@
             }
         },
         "phone": "010-692-6593 x09125",
+        "gender": "female",
         "website": "anastasia.net",
         "company": {
             "name": "Deckow-Crist",
@@ -66,6 +68,7 @@
             }
         },
         "phone": "1-463-123-4447",
+        "gender": "male",
         "website": "ramiro.info",
         "company": {
             "name": "Romaguera-Jacobson",
@@ -92,6 +95,7 @@
             }
         },
         "phone": "493-170-9623 x156",
+        "gender": "male",
         "website": "kale.biz",
         "company": {
             "name": "Robel-Corkery",
@@ -118,6 +122,7 @@
             }
         },
         "phone": "(254)954-1289",
+        "gender": "female",
         "website": "demarco.info",
         "company": {
             "name": "Keebler LLC",
@@ -144,6 +149,7 @@
             }
         },
         "phone": "1-477-935-8478 x6430",
+        "gender": "male",
         "website": "ola.org",
         "company": {
             "name": "Considine-Lockman",
@@ -170,6 +176,7 @@
             }
         },
         "phone": "210.067.6132",
+        "gender": "female",
         "website": "elvis.io",
         "company": {
             "name": "Johns Group",
@@ -196,6 +203,7 @@
             }
         },
         "phone": "586.493.6943 x140",
+        "gender": "female",
         "website": "jacynthe.com",
         "company": {
             "name": "Abernathy Group",
@@ -222,6 +230,7 @@
             }
         },
         "phone": "(775)976-6794 x41206",
+        "gender": "male",
         "website": "conrad.com",
         "company": {
             "name": "Yost and Sons",
@@ -248,6 +257,7 @@
             }
         },
         "phone": "024-648-3804",
+        "gender": "female",
         "website": "ambrose.net",
         "company": {
             "name": "Hoeger LLC",
