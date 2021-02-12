@@ -72,11 +72,10 @@
     },
     computed: {
       getTotalCars() {
-        let totalCars = 0;
         let users = this.users;
-        users.forEach((user) => {
-          totalCars += user.cars.number;
-        });
+        let totalCars = users.reduce(function(sum, elem) {
+          return sum + elem.cars.number;
+        }, 0);
         return totalCars;
       },
     },
