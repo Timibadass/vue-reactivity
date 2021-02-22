@@ -38,7 +38,7 @@
 <script>
   // @ is an alias to /src
   import carsNumber from "@/components/cars-number.vue";
-  const axios = require("axios");
+  import axios from "axios";
   import { ref } from "vue";
   export default {
     name: "Home",
@@ -47,18 +47,13 @@
     },
     setup() {
       let users = ref([]);
-      // let user = reactive({});
       const getUsers = async () => {
         let { data } = await axios({
           url: "data.json",
         });
 
         users.value = data;
-        return users;
       };
-      // const getUserById = async () => {
-      //   // user = await
-      // };
       return {
         users,
         getUsers,
